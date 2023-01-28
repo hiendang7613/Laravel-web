@@ -1,0 +1,1 @@
+<button class="btn btn-default text-center">Xóa sản phẩm</button>
